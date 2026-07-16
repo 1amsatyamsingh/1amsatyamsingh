@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋 I'm Satyam Singh
 
-<!--
-**1amsatyamsingh/1amsatyamsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Founder @ RGKS Global Innovations
 
-Here are some ideas to get you started:
+I am a Software Developer and AI Enthusiast passionate about building technology that creates real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Development
+- 🌐 Open Source Contributions
+- 🚀 Startup Innovation
+- ☁ Cloud Technologies
+
+---
+
+## 🛠 Tech Stack
+
+Java • Python • JavaScript • React • Node.js • SQL • HTML • CSS • Git • GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Google Summer of Code (GSoC)
+- Open Source Development
+- Artificial Intelligence
+- Cloud Computing
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn:
+https://linkedin.com/in/1amsatyamsingh
+
+🌐 Website:
+https://rgksglobalinnovations.in
+
+📧 Email:
+founder@rgksglobalinnovations.in
+
+---
+
+> "Building Technology That Creates Impact."
